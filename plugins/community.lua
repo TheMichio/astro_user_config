@@ -17,4 +17,7 @@ return {
   { import = "astrocommunity.colorscheme.oxocarbon" },
   { import = "astrocommunity.colorscheme.nightfox" },
   { import = "astrocommunity.colorscheme.tokyonight" },
+  { import = "astrocommunity.bars-and-lines.statuscol-nvim" },
+  { import = "astrocommunity.completion.copilot-lua" },
+  { import = "astrocommunity.editing-support.nvim-regexplainer" },
 }
